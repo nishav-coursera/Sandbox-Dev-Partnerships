@@ -1,0 +1,17 @@
+{
+    "projectName": "Sandbox Dev Partnerships",
+    "username": "nisha@coursera.org.dev",
+    "id": "b724e8d0-7ba1-11e7-9a8f-a34fdd5a67cc",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://cs14.salesforce.com",
+    "workspace": "/Users/nishav/Documents/Sublime_SFDC",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
